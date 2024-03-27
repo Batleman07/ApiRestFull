@@ -35,3 +35,14 @@
 ###                      }
 ---------------------------------------
 ### * git config --global user.name / user.email
+---------------------------------------
+## 2 Desenolvendo aplicação
+### (a)Criar pastas, {
+                        controllers,
+                        models,
+                        repositories,
+                        services,
+                        config,
+                        }
+### (b)Dentro da pasta resource, criar pasta db->migration  [arquivo: V1.1.1__nomesarquivo.sql] para criar mapeamento de migração de banco.(Configuração para utilizar o flyway)
+###(c) Criar arquivos de configuração de terminal, atraves da criação da pasta ".vscode"  com dois  arquivos .json extensions e settings.json 
