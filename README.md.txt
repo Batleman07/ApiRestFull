@@ -46,3 +46,5 @@
                         }
 ### (b)Dentro da pasta resource, criar pasta db->migration  [arquivo: V1.1.1__nomesarquivo.sql] para criar mapeamento de migração de banco.(Configuração para utilizar o flyway)
 ###(c) Criar arquivos de configuração de terminal, atraves da criação da pasta ".vscode"  com dois  arquivos .json extensions e settings.json 
+### (d) Observar as versões que dos implementos nas dependencias para que não exista alguma  vulnerabilidade  no projeto.
+###(e)Criar as  entidades (objetos)
